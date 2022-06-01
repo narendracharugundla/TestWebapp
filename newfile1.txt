@@ -1,1 +1,1 @@
-Testing GIT Merge Concept one more time
+Testing GIT Merge Concept via command line
